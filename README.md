@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+## APP DESCRIPTION
+
+Authenticating users through camera or code by consuming API
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
